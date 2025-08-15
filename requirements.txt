@@ -1,0 +1,68 @@
+# DeFi Sentinel Requirements
+# Core SpoonOS Framework
+spoon-ai-sdk>=0.1.0
+
+# Web3 and Blockchain
+web3>=6.15.1
+eth-abi>=4.2.1
+eth-utils>=2.3.1
+eth-account>=0.10.0
+pyevmasm>=0.2.3
+
+# AI/LLM Libraries
+openai>=1.12.0
+anthropic>=0.18.1
+langchain>=0.1.6
+langchain-openai>=0.0.8
+tiktoken>=0.5.2
+
+# Smart Contract Analysis
+slither-analyzer>=0.10.0
+mythril>=0.24.8
+solc-select>=1.0.4
+
+# Data Processing
+pandas>=2.2.0
+numpy>=1.26.4
+pydantic>=2.6.1
+python-dotenv>=1.0.1
+
+# API and Web Framework
+fastapi>=0.109.2
+uvicorn>=0.27.1
+httpx>=0.26.0
+aiohttp>=3.9.3
+requests>=2.31.0
+
+# Database
+sqlalchemy>=2.0.25
+alembic>=1.13.1
+psycopg2-binary>=2.9.9
+
+# Monitoring and Logging
+celery>=5.3.6
+redis>=5.0.1
+prometheus-client>=0.19.0
+
+# Security and Encryption
+cryptography>=42.0.2
+pycryptodome>=3.19.1
+
+# UI Framework
+streamlit>=1.31.0
+plotly>=5.18.0
+dash>=2.16.1
+
+# Discord Bot
+discord.py>=2.3.2
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.5
+pytest-mock>=3.12.0
+
+# Development Tools
+black>=24.1.1
+flake8>=7.0.0
+mypy>=1.8.0
+pre-commit>=3.6.0
