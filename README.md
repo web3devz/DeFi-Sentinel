@@ -4,7 +4,6 @@
 
 DeFi Sentinel is a comprehensive security monitoring and risk assessment platform for DeFi protocols, built on the SpoonOS Core Developer Framework. It provides real-time monitoring, AI-powered analysis, and automated risk assessment for smart contracts across multiple blockchain networks.
 
-![DeFi Sentinel Dashboard](docs/images/dashboard-preview.png)
 
 ## 🌟 Key Features
 
