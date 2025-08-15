@@ -8,7 +8,7 @@ DeFi Sentinel is a comprehensive smart contract security monitoring platform bui
 
 ### 🏗️ **Core Architecture**
 - **SpoonOS Integration**: Built on SpoonOS Core Developer Framework with SpoonReactMCP agent
-- **OpenRouter API**: Configured with provided API key `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`
+- **OpenRouter API**: Configured with provided API key.
 - **Multi-Chain Support**: Ethereum, Polygon, BSC, Arbitrum compatibility
 - **Modular Design**: Extensible tool and agent architecture
 
@@ -73,8 +73,7 @@ DeFi-Sentinel-main/
 │   │   ├── security_scanner.py # Vulnerability detection
 │   │   └── risk_assessor.py   # Risk scoring
 │   ├── api/main.py           # FastAPI server
-│   ├── ui/main.py            # Streamlit dashboard
-│   └── requirements.txt      # Dependencies
+│   I── ui/main.py            # Streamlit dashboard
 ├── run.py                    # CLI runner
 ├── demo.py                   # Working demonstration
 ├── .env                      # Environment configuration
